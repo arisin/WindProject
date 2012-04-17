@@ -1,0 +1,15 @@
+＜素案　4/17-＞
+
+world{
+	update();
+	draw();
+	objects{ };
+	run();
+}
+
+object{
+	pos{ x, y, z}
+	vel{ x, y, z}
+	update()
+	//objectとの関連付け
+}
